@@ -1,0 +1,19 @@
+body {
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+}
+
+#projects {
+	border-right: 2px solid black;
+	height: 610px;
+	width: 200px;
+}
+
+#input {
+	margin: auto;
+}
+
+.done {
+	text-decoration: line-through;
+}
